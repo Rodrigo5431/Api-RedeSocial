@@ -1,0 +1,67 @@
+json está em lista, deve ser usado em unidade para teste
+Antes de usar alterar dados como conteúdo
+
+[
+
+
+    {
+        "conteudo_coment": "Ótima postagem, Patrick!",
+        "data_criacao": "2024-10-21",
+        "id_usuario": 7,
+        "id_postagem": 1
+    },
+    {
+        "conteudo_coment": "Que lindinho, trás ele aqui em casa!",
+        "data_criacao": "2024-10-21",
+        "id_usuario": 2,
+        "id_postagem": 2
+    },
+    {
+        "conteudo_coment": "Interessante, Roberto!",
+        "data_criacao": "2024-10-22",
+        "id_usuario": 4,
+        "id_postagem": 6
+    },
+    {
+        "conteudo_coment": "Fazer o bem e muito bom, Petrick!",
+        "data_criacao": "2024-10-21",
+        "id_usuario": 4,
+        "id_postagem": 1
+    },
+    {
+        "conteudo_coment": "Agora você não reclama !",
+        "data_criacao": "2024-10-20",
+        "id_usuario": 5,
+        "id_postagem": 5
+    },
+    {
+        "conteudo_coment": "Obaaaaa meu natal, não e mesmo sem você!",
+        "data_criacao": "2024-10-19",
+        "id_usuario": 6,
+        "id_postagem": 6
+    },
+    {
+        "conteudo_coment": "Esse seu cafezinho e ótimo, kkk!",
+        "data_criacao": "2024-10-18",
+        "id_usuario": 8,
+        "id_postagem": 7
+    },
+    {
+        "conteudo_coment": "Depois eu quero a sua ajuda AHAHAHAAAAAAAA!",
+        "data_criacao": "2024-10-17",
+        "id_usuario": 3,
+        "id_postagem": 3
+    },
+    {
+        "conteudo_coment": "Gostei do código, Rodrigo, ta igual do Professor!",
+        "data_criacao": "2024-10-16",
+        "id_usuario": 2,
+        "id_postagem": 5
+    },
+    {
+        "conteudo_coment": "Vou até passar um café por isso!",
+        "data_criacao": "2024-10-15",
+        "id_usuario": 8,
+        "id_postagem": 7
+    }
+]

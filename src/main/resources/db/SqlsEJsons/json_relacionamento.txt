@@ -1,0 +1,254 @@
+json está em lista, deve ser usado em unidade para teste
+
+[
+    {
+        "id_seguidor": 1,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 1,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 1,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 1,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 1,
+        "id_seguido": 6,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 2,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 2,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 2,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 2,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 2,
+        "id_seguido": 6,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 3,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 3,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 3,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 3,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 3,
+        "id_seguido": 6,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 4,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 4,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 4,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 4,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 4,
+        "id_seguido": 6,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 5,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 5,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 5,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 5,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 5,
+        "id_seguido": 6,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 6,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 6,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 6,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 6,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 6,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 7,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 7,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 7,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 7,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 7,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 8,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 8,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 8,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 8,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 8,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 9,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 9,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 9,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 9,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 9,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-24"
+    },
+    {
+        "id_seguidor": 10,
+        "id_seguido": 1,
+        "data_inicio_seguimento": "2024-10-20"
+    },
+    {
+        "id_seguidor": 10,
+        "id_seguido": 2,
+        "data_inicio_seguimento": "2024-10-21"
+    },
+    {
+        "id_seguidor": 10,
+        "id_seguido": 3,
+        "data_inicio_seguimento": "2024-10-22"
+    },
+    {
+        "id_seguidor": 10,
+        "id_seguido": 4,
+        "data_inicio_seguimento": "2024-10-23"
+    },
+    {
+        "id_seguidor": 10,
+        "id_seguido": 5,
+        "data_inicio_seguimento": "2024-10-24"
+    }
+]

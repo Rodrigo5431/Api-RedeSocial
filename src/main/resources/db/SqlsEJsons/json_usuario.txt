@@ -1,0 +1,75 @@
+json USUARIOS
+
+[
+    {
+        "nome": "Rayssa",
+        "sobrenome": "Vieira",
+        "email": "rayssa.vieira@example.com",
+        "senha": "$2a$12$QcWot7hiwMyY3RHFqbeJhelMsmX2/afmOQFRatecxVXu.Pg3tUkSC",
+        "data_nascimento": "1990-01-15"
+    },
+    {
+        "nome": "Elyn",
+        "sobrenome": "Virginio",
+        "email": "elyn.virginio@example.com",
+        "senha": "$2a$12$ndf1IhPckAlMLBMvJvL8P.nK4QSbRJIhQ0K.dRTa9EENZPf1Or0E.",
+        "data_nascimento": "1985-06-23"
+    },
+    {
+        "nome": "Rhayssa",
+        "sobrenome": "Frias",
+        "email": "rhayssa.frias@example.com",
+        "senha": "$2a$12$dFiWZDQJbtPwMI/jie33pOkplOg0aYTfiSN3UeR4nQvtPFvLKGN4q",
+        "data_nascimento": "1992-09-30"
+    },
+    {
+        "nome": "Rodrigo",
+        "sobrenome": "Carvalho",
+        "email": "rodrigo.carvalho@example.com",
+        "senha": "$2a$12$K.N1tpaWqzi2xcB4GYGypuPtWpoi6nEjzirbXeDWRJYCoVh/okDz.",
+
+        "data_nascimento": "1995-04-12"
+    },
+    {
+        "nome": "Patrick",
+        "sobrenome": "Paiva",
+        "email": "patrick.paiva@example.com",
+        "senha": "$2a$12$NDACtWikt1eUgVW6IEsLc.yY44ype1wVpr9wADTwuKW8JsG8uwmd2",
+        "data_nascimento": "1991-07-18"
+    },
+    {
+        "nome": "Alberto",
+        "sobrenome": "Paz",
+        "email": "alberto.paz@example.com",
+        "senha": "$2a$12$EF93EIWPQepjHWzdHPGM5eOaXOdzY.Rv4kpiy3iyezKaeUnZGKjT.",
+        "data_nascimento": "1988-11-03"
+    },
+    {
+        "nome": "Christian",
+        "sobrenome": "Araujo",
+        "email": "christian.araujo@example.com",
+        "senha": "$2a$17$DqqhxVilWVpbmBuM4eHXSuO8Hdakr.n7tTS9EJYpq1TYRmkNyH906",
+        "data_nascimento": "1993-02-26"
+    },
+    {
+        "nome": "Milton",
+        "sobrenome": "Mendes",
+        "email": "milton.mendes@example.com",
+        "senha": "$2a$17$yUpU5f0ry07zJAwbovesGeeDM1oY7hMOAysqThHdMfunfeg0iJozW",
+        "data_nascimento": "1986-12-10"
+    },
+    {
+        "nome": "Roberto",
+        "sobrenome": "Carlos",
+        "email": "roberto.carlos@example.com",
+        "senha": "$2a$17$Kf5DigqpdZQPVKrcxK1Gnu4U3PnKNHUIYuqtZbKdVZMmSvF2oWnlm",
+        "data_nascimento": "1997-08-05"
+    },
+    {
+        "nome": "João",
+        "sobrenome": "Das Coves",
+        "email": "joao.das.coves@example.com",
+        "senha": "$2a$17$CupR9DidHNSlQiJlSF5x6.HXtEF0WW1iYVLU4epunrVJC7FZEtNmm",
+        "data_nascimento": "1989-03-21"
+    }
+]
